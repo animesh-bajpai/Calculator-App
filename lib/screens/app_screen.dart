@@ -220,7 +220,7 @@ class _AppScreenState extends State<AppScreen> {
 
   Widget _ovalButton({
     required String title,
-    double padding = 17,
+    double padding = 16,
   }) {
     return GestureDetector(
       onTap: () {
